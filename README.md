@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @parker-g
-- 👀 I’m interested in machine learning and python
-- 🌱 I’m currently learning python + javascript. Maybe C after?
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in getting a hold on data structures, design patterns in python
+- 🌱 I’m currently taking a deep dive into python. trying to level up 
+- 💞️ I’m looking to collaborate on something fun >:)
 - 📫 You can reach me on discord @BagelBrigadier#7267
 
 <!---
