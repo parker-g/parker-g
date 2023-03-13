@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @parker-g
-- 👀 I’m interested in getting a hold on data structures, design patterns in python
-- 🌱 I’m currently taking a deep dive into python. trying to level up 
+- 👀 I’m interested in getting a hold on data structures, and learning lower level control of programs :D
+- 🌱 I’m currently learning java. also creating fun + useful projects
 - 💞️ I’m looking to collaborate on something fun >:)
 - 📫 You can reach me on discord @BagelBrigadier#7267
 
