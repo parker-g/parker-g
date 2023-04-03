@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @parker-g
 - 👀 I’m interested in getting a hold on data structures, and learning lower level control of programs :D
-- 🌱 I’m currently learning java. also creating fun + useful projects
+- 🌱 I’m currently learning java, adding features to my discord bot
 - 💞️ I’m looking to collaborate on something fun >:)
 - 📫 You can reach me on discord @BagelBrigadier#7267
 
