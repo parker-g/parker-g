@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @parker-g
 - 👀 I’m interested in learning more about parallelism and safe multi - threading :D
 - 🌱 I’m currently working on my discord bot
-- 💞️ I’m looking to open myself up to a new project, or perhaps a lower level language
+- 💞️ I’m looking to open myself up to a new project
 - 📫 You can reach me on discord @BagelBrigadier#7267
 
 <!---
